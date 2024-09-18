@@ -1,0 +1,27 @@
+let x  = 30;
+x = x+5;
+console.log(x);
+
+// addition assignment operator
+y = 34;
+y += 6;     
+console.log(y);
+
+
+// subtraction assignment
+z = 50;
+z -= 40;
+console.log(z);
+
+// multiplication assignment
+m = 50;
+m *= 40;
+console.log(m);
+
+// division assignment
+n = 50;
+n /= 40;
+console.log(n);
+
+
+
